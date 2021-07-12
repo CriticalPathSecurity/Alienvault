@@ -821,6 +821,7 @@ skysafe.systems	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 skysafe.technology	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 skysafe.today	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 skysafe.wtf	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+slecker.casa	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 slightk.work	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 slikermation.casa	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 smbc-bansk.com	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
