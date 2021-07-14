@@ -311,6 +311,7 @@ ensurek.cam	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 ephemera.cam	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 equipfolk.icu	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 etostioa.com	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+eurl.pw	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 excellentd.cam	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 explodhe.cam	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 fabriot.today	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
